@@ -6,7 +6,9 @@
       <class name="AlmosaferPKG.MyTestCases">
         <methods>
           <include name="Setup"/>
-          <include name="RandomLanguage"/>
+          <include name="ClickSearchHotels"/>
+          <include name="LoadSearchResultPage"/>
+          <include name="LowestHighestPrices"/>
         </methods>
       </class> <!-- AlmosaferPKG.MyTestCases -->
     </classes>
