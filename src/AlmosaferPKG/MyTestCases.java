@@ -1,7 +1,6 @@
 package AlmosaferPKG;
 
 import org.testng.annotations.Test;
-import org.testng.AssertJUnit;
 import static org.testng.Assert.assertEquals;
 
 import java.time.Duration;

@@ -2,60 +2,60 @@
 <testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-04T21:11:53 EET" name="Default suite" finished-at="2024-02-04T21:12:39 EET" duration-ms="45267">
+  <suite started-at="2024-02-28T12:10:07 EET" name="Default suite" finished-at="2024-02-28T12:10:50 EET" duration-ms="42704">
     <groups>
     </groups>
-    <test started-at="2024-02-04T21:11:53 EET" name="Default test" finished-at="2024-02-04T21:12:39 EET" duration-ms="45267">
+    <test started-at="2024-02-28T12:10:07 EET" name="Default test" finished-at="2024-02-28T12:10:50 EET" duration-ms="42704">
       <class name="AlmosaferPKG.MyTestCases">
-        <test-method is-config="true" signature="Setup()[pri:0, instance:AlmosaferPKG.MyTestCases@3fc9dfc5]" started-at="2024-02-04T21:11:53 EET" name="Setup" finished-at="2024-02-04T21:11:57 EET" duration-ms="3951" status="PASS">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:AlmosaferPKG.MyTestCases@2cac4385]" started-at="2024-02-28T12:10:07 EET" name="Setup" finished-at="2024-02-28T12:10:11 EET" duration-ms="3412" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method signature="LanguageEN()[pri:1, instance:AlmosaferPKG.MyTestCases@3fc9dfc5]" started-at="2024-02-04T21:11:57 EET" name="LanguageEN" finished-at="2024-02-04T21:11:58 EET" duration-ms="96" status="PASS">
+        <test-method signature="LanguageEN()[pri:1, instance:AlmosaferPKG.MyTestCases@2cac4385]" started-at="2024-02-28T12:10:11 EET" name="LanguageEN" finished-at="2024-02-28T12:10:11 EET" duration-ms="68" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LanguageEN -->
-        <test-method signature="Currency()[pri:2, instance:AlmosaferPKG.MyTestCases@3fc9dfc5]" started-at="2024-02-04T21:11:58 EET" name="Currency" finished-at="2024-02-04T21:11:58 EET" duration-ms="45" status="PASS">
+        <test-method signature="Currency()[pri:2, instance:AlmosaferPKG.MyTestCases@2cac4385]" started-at="2024-02-28T12:10:11 EET" name="Currency" finished-at="2024-02-28T12:10:11 EET" duration-ms="50" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Currency -->
-        <test-method signature="ContactNumber()[pri:3, instance:AlmosaferPKG.MyTestCases@3fc9dfc5]" started-at="2024-02-04T21:11:58 EET" name="ContactNumber" finished-at="2024-02-04T21:11:58 EET" duration-ms="110" status="PASS">
+        <test-method signature="ContactNumber()[pri:3, instance:AlmosaferPKG.MyTestCases@2cac4385]" started-at="2024-02-28T12:10:11 EET" name="ContactNumber" finished-at="2024-02-28T12:10:11 EET" duration-ms="236" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ContactNumber -->
-        <test-method signature="QitafLogo()[pri:4, instance:AlmosaferPKG.MyTestCases@3fc9dfc5]" started-at="2024-02-04T21:11:58 EET" name="QitafLogo" finished-at="2024-02-04T21:11:58 EET" duration-ms="70" status="PASS">
+        <test-method signature="QitafLogo()[pri:4, instance:AlmosaferPKG.MyTestCases@2cac4385]" started-at="2024-02-28T12:10:11 EET" name="QitafLogo" finished-at="2024-02-28T12:10:11 EET" duration-ms="73" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- QitafLogo -->
-        <test-method signature="hotelsTab()[pri:5, instance:AlmosaferPKG.MyTestCases@3fc9dfc5]" started-at="2024-02-04T21:11:58 EET" name="hotelsTab" finished-at="2024-02-04T21:11:58 EET" duration-ms="83" status="PASS">
+        <test-method signature="hotelsTab()[pri:5, instance:AlmosaferPKG.MyTestCases@2cac4385]" started-at="2024-02-28T12:10:11 EET" name="hotelsTab" finished-at="2024-02-28T12:10:12 EET" duration-ms="528" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- hotelsTab -->
-        <test-method signature="DepartureDate()[pri:6, instance:AlmosaferPKG.MyTestCases@3fc9dfc5]" started-at="2024-02-04T21:11:58 EET" name="DepartureDate" finished-at="2024-02-04T21:11:59 EET" duration-ms="1136" status="PASS">
+        <test-method signature="DepartureDate()[pri:6, instance:AlmosaferPKG.MyTestCases@2cac4385]" started-at="2024-02-28T12:10:12 EET" name="DepartureDate" finished-at="2024-02-28T12:10:13 EET" duration-ms="813" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- DepartureDate -->
-        <test-method signature="ReturnDate()[pri:7, instance:AlmosaferPKG.MyTestCases@3fc9dfc5]" started-at="2024-02-04T21:11:59 EET" name="ReturnDate" finished-at="2024-02-04T21:12:00 EET" duration-ms="776" status="PASS">
+        <test-method signature="ReturnDate()[pri:7, instance:AlmosaferPKG.MyTestCases@2cac4385]" started-at="2024-02-28T12:10:13 EET" name="ReturnDate" finished-at="2024-02-28T12:10:13 EET" duration-ms="254" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ReturnDate -->
-        <test-method signature="RandomCity()[pri:9, instance:AlmosaferPKG.MyTestCases@3fc9dfc5]" started-at="2024-02-04T21:12:00 EET" name="RandomCity" finished-at="2024-02-04T21:12:04 EET" duration-ms="4198" status="PASS">
+        <test-method signature="RandomCity()[pri:9, instance:AlmosaferPKG.MyTestCases@2cac4385]" started-at="2024-02-28T12:10:13 EET" name="RandomCity" finished-at="2024-02-28T12:10:16 EET" duration-ms="3476" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- RandomCity -->
-        <test-method signature="RandomRoom()[pri:10, instance:AlmosaferPKG.MyTestCases@3fc9dfc5]" started-at="2024-02-04T21:12:04 EET" name="RandomRoom" finished-at="2024-02-04T21:12:04 EET" duration-ms="297" status="PASS">
+        <test-method signature="RandomRoom()[pri:10, instance:AlmosaferPKG.MyTestCases@2cac4385]" started-at="2024-02-28T12:10:16 EET" name="RandomRoom" finished-at="2024-02-28T12:10:17 EET" duration-ms="128" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- RandomRoom -->
-        <test-method signature="ClickSearchHotels()[pri:11, instance:AlmosaferPKG.MyTestCases@3fc9dfc5]" started-at="2024-02-04T21:12:04 EET" name="ClickSearchHotels" finished-at="2024-02-04T21:12:11 EET" duration-ms="6615" status="PASS">
+        <test-method signature="ClickSearchHotels()[pri:11, instance:AlmosaferPKG.MyTestCases@2cac4385]" started-at="2024-02-28T12:10:17 EET" name="ClickSearchHotels" finished-at="2024-02-28T12:10:22 EET" duration-ms="5049" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ClickSearchHotels -->
-        <test-method signature="LoadSearchResultPage()[pri:12, instance:AlmosaferPKG.MyTestCases@3fc9dfc5]" started-at="2024-02-04T21:12:11 EET" name="LoadSearchResultPage" finished-at="2024-02-04T21:12:36 EET" duration-ms="25062" status="PASS">
+        <test-method signature="LoadSearchResultPage()[pri:12, instance:AlmosaferPKG.MyTestCases@2cac4385]" started-at="2024-02-28T12:10:22 EET" name="LoadSearchResultPage" finished-at="2024-02-28T12:10:47 EET" duration-ms="25045" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoadSearchResultPage -->
-        <test-method signature="LowestHighestPrices()[pri:13, instance:AlmosaferPKG.MyTestCases@3fc9dfc5]" started-at="2024-02-04T21:12:36 EET" name="LowestHighestPrices" finished-at="2024-02-04T21:12:39 EET" duration-ms="2738" status="PASS">
+        <test-method signature="LowestHighestPrices()[pri:13, instance:AlmosaferPKG.MyTestCases@2cac4385]" started-at="2024-02-28T12:10:47 EET" name="LowestHighestPrices" finished-at="2024-02-28T12:10:50 EET" duration-ms="3477" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LowestHighestPrices -->
