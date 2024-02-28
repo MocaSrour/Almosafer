@@ -41,7 +41,7 @@ This command will clean the project, compile the source code, and run the tests.
 
 - [Maven](https://maven.apache.org/) - Dependency Management
 - [TestNG](https://mvnrepository.com/artifact/org.testng/testng) - Testing framework
-- 
+ 
 ## Author
 
 Moca モカ
