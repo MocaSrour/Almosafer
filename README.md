@@ -1,4 +1,4 @@
-# E-Commerce Website Testing
+# Travel Website Testing
 
 This repository contains automated tests for the e-commerce website [Almosafer](https://www.almosafer.com/en?ncr=1).
 
@@ -44,4 +44,4 @@ This command will clean the project, compile the source code, and run the tests.
 - 
 ## Author
 
-- Moca モカ
+Moca モカ
