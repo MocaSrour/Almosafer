@@ -1,6 +1,6 @@
 # Travel Website Testing
 
-This repository contains automated tests for the e-commerce website [Almosafer](https://www.almosafer.com/en?ncr=1).
+This repository contains automated tests for the international travel booking website [Almosafer](https://www.almosafer.com/en?ncr=1).
 
 ## Getting Started
 
